@@ -4,7 +4,8 @@
 #include "Board.h"
 
 /**The main method.1-73 is just the suggested values.
- The values can go higher however everything might look out of place.**/
+ The values can go higher however everything might look out of place.
+ This is just a test or a "base" for more complex things like battleship ,chess, minesweeper ..etc**/
 
 int main()
 {
