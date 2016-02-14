@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1455481080 source:c:\users\edgar\documents\github\boardstrategy\board.c
+
+1455041250 source:c:\users\edgar\documents\github\boardstrategy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+
+1455040645 c:\users\edgar\documents\github\boardstrategy\board.h
+
