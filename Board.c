@@ -1,4 +1,7 @@
 
+/**Most of the complex stuff is here for now. Just basic stuff.
+ *Most of it is if and for loops. Generates row & column **/
+
 void board(int row, int col)
 {
 
